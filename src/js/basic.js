@@ -11,6 +11,3 @@ export default function healthSort(input) {
   });
   return result;
 }
-
-
-// тест для апдейта

@@ -14,6 +14,3 @@ test('should sort array by health', () => {
   const received = healthSort(input);
   expect(received).toEqual(expected);
 });
-
-
-// тест для апдейта
